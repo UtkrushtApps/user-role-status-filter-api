@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy[asyncio]
+psycopg2-binary
+pydantic
+alembic
+asyncpg
+pytest
+httpx
